@@ -1,4 +1,4 @@
-# This script simulates people riding the escalator according to two different scenarios. In one, the left lane is reserved for walkers and the right lane is 
+This script simulates people riding the escalator according to two different scenarios. In one, the left lane is reserved for walkers and the right lane is 
 reserved for people who stand still. The alternative scenario is that people just stay at whatever lane they arrive at, regardless of whether they walk or
 stand still, potentially blocking people behind them. We assume 80% of people walk and walkers complete their journey in half the time a "stander" takes and 
 then we model the number of people who finish an escalator ride under the two rules. We find there is little difference when the escalator is relatively empty
